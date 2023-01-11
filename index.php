@@ -2,7 +2,7 @@
 
 // Premiere ligne
 
-function maFonction{
+function maFonction(){
     echo "Hello World!";
 }
 
@@ -17,7 +17,7 @@ function maFonctionParam($fname, $lname) {
 }
 
 
-maFonctionParam(gorge, city)
+maFonctionParam(gorge, city);
 
 
 
